@@ -1,6 +1,6 @@
 # Stopwatch
 
-[Site link](https://taras092.github.io/Angular-Stopwatch/)
+[Site link](https://rainbow-mermaid-191c9f.netlify.app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
@@ -27,3 +27,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## The tech stack is:
+
++ [HTML5](https://en.wikipedia.org/wiki/HTML5)
++ [CSS3](https://en.wikipedia.org/wiki/CSS)
++ [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
++ [Sass (Scss)](https://sass-lang.com/)
++ [BEM methodology](https://en.bem.info/methodology/)
++ [JavaScript](https://uk.wikipedia.org/wiki/JavaScript)
++ [TypeScript](https://www.typescriptlang.org/)
++ [Angular](https://angular.io/)
+
+## Author
+
++ Taras Luchynets
