@@ -1,5 +1,7 @@
 # Stopwatch
 
+[Site link](https://taras092.github.io/Angular-Stopwatch/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
